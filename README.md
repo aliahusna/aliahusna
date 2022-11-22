@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aliahusna
-- 👀 I’m interested in Cybersecurity, Data Science and Analytics
-- 🌱 I’m currently learning both Cybersecurity and Data Science!
-- 💞️ I’m looking to collaborate on my interests to enhance my skills and learn new things!
+- 👀 I’m interested in Cybersecurity, Incident Response and Threat Hunting!
+- 🌱 I’m currently doing Cybersecurity!
+- 💞️ I’m looking to collaborate on my interest to enhance my skills and learn new things!
 - 📫 How to reach me? You may go to my LinkedIn --> https://linkedin.com/in/aliahusna 
 
 <!---
