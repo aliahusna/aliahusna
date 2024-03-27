@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliahusna
-- I’m interested in Cybersecurity, Incident Response and Threat Hunting!
+- I’m interested in Cybersecurity
 - I’m currently doing Cybersecurity!
 - I’m looking to collaborate on my interest to enhance my skills and learn new things!
 - 📫 How to reach me? You may go to my LinkedIn --> https://linkedin.com/in/aliahusna 
