@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliahusna
-- I’m currently doing Cybersecurity
+- Cybersecurity.
 - 📫 How to reach me? LinkedIn --> https://linkedin.com/in/aliahusna 
 
 <!---
